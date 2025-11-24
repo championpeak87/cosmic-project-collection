@@ -18,7 +18,7 @@ Applets(
       name: "cosmic-ext-classic-menu",
       description: "Menu applet for launching applications",
       repo: "https://github.com/championpeak87/cosmic-ext-classic-menu",
-      image: "https://raw.githubusercontent.com/championpeak87/cosmic-ext-classic-menu/master/cosmic-ext-classic-menu.png"
+      image: "https://raw.githubusercontent.com/championpeak87/cosmic-ext-classic-menu/master/screenshots/cosmic-ext-classic-menu-applet.png"
     ),
     (
       name: "clipboard-manager",
